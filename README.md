@@ -35,10 +35,6 @@ python main.py
 
 Contributions are welcome! If you have any suggestions, bug fixes, or feature requests, feel free to open an issue or submit a pull request.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgements
 
 - The project uses [Tkinter](https://docs.python.org/3/library/tkinter.html) for the graphical user interface.
